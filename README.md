@@ -12,7 +12,7 @@
 ---
 
 <a name="español"></a>
-## 🇪🇸 Versión en Español
+## Versión en Español
 
 Este repositorio contiene una colección de mini-proyectos desarrollados con **React** y **Vite**. El objetivo es demostrar el dominio de conceptos fundamentales como hooks (`useState`, `useEffect`, `useRef`), manejo de eventos, lógica de arreglos y persistencia de datos.
 
@@ -33,7 +33,7 @@ Puedes ver los ejercicios funcionando aquí: [**VER PROYECTO**](https://CarlosPa
 ---
 
 <a name="english"></a>
-## 🇺🇸 English Version
+## English Version
 
 This repository contains a collection of mini-projects developed with **React** and **Vite**. The goal is to demonstrate mastery of fundamental concepts such as hooks (`useState`, `useEffect`, `useRef`), event handling, array logic, and data persistence.
 
