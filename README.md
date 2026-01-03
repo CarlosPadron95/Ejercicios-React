@@ -58,3 +58,15 @@ You can see the exercises in action here: [**VIEW PROJECT**](https://CarlosPadro
 - **Vite**: Optimización del entorno de desarrollo.
 - **Hooks**: Deep dive en `useState` y `useEffect`.
 - **Deployment**: Configurado con **GH-Pages**.
+  
+---
+
+## 👨‍💻 Autor / Author
+
+**Carlos Padrón**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosPadron95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-padr%C3%B3n-delgado-395166234/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlospadrondelgado@gmail.com)
+
+⭐ Si te gustó este proyecto, dale una estrella / If you liked this project, give it a star!
